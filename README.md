@@ -9,4 +9,4 @@ This Python SMS Quickstart will teach you how to do this using our Communication
     Reply to incoming messages with an SMS
 The easiest way to install the library is using pip, a package manager for Python that makes it easier to install the libraries
 you need. Simply run this in the terminal:
-$pip install twilio
+$pip install -r requirements.txt
